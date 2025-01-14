@@ -73,7 +73,7 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 2. Install Python 3.x and required libraries: `pip install -r requirements.txt`.
 3. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-disease-prediction.git
+   git clone https://github.com/JG-2703/heart-disease-prediction.git
 
 ---
    
@@ -82,7 +82,7 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 - Start your PHP server (e.g., XAMPP).  
 - Place the project folder in the htdocs directory.  
 - Run the Python script predict.py to generate model predictions.  
-- Access the website via http://localhost/heart-disease-prediction.  
+- Access the website via http://localhost/Heart_Disease_Prediction/index.php.  
 
 ---
 
