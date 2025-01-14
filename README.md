@@ -51,7 +51,6 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 ├── index.html # Main webpage   
 ├── submit.php # Backend logic for handling form submissions   
 ├── predict.py # Python script for ML model predictions   
-├── assets/ # Contains styles and images   
 ├── graphs/ # Generated visualizations   
 └── README.md # Project documentation  
 
