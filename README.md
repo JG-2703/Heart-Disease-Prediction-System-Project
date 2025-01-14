@@ -54,14 +54,11 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 
 ## 📊 Visualizations
 
-### 🔍 Model Comparisons
-![Accuracy Comparison Graph](https://via.placeholder.com/600x300)
-
 ### 🧮 Correlation Heatmap
 ![Correlation Heatmap](Graphs/correlation_matrix.png "Correlation Heatmap")
 
-### 📈 ROC Curves
-![ROC Curve](https://via.placeholder.com/600x300)
+### 📈 Distributions
+![ROC Curve](Graphs/heart_disease_distributions.png)
 
 ---
 
