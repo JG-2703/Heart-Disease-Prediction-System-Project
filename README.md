@@ -52,7 +52,7 @@ Check out the live demo to see the system in action.
 ![Accuracy Comparison Graph](https://via.placeholder.com/600x300)
 
 ### 🧮 Correlation Heatmap
-![Correlation Heatmap](graphs/roc_curve.png "Correlation Heatmap")
+![Correlation Heatmap](Graphs/correlation_matrix.png "Correlation Heatmap")
 
 ### 📈 ROC Curves
 ![ROC Curve](https://via.placeholder.com/600x300)
