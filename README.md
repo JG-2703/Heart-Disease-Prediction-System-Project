@@ -28,10 +28,16 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 
 ---
 
-## 🌐 Live Demo
+## 📸 Screenshots
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-live-demo-link.com)  
-Check out the live demo to see the system in action.
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png "Homepage Screenshot")
+
+### 📊 Results Page
+![Results Page](screenshots/results_page.png "Results Page Screenshot")
+
+### 📈 Visualizations
+![Visualizations](screenshots/visualizations.png "Visualizations Screenshot")
 
 ---
 
