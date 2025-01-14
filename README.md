@@ -31,13 +31,18 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png "Homepage Screenshot")
+![Homepage](Screenshots/Homepage1.png "Homepage Screenshot")
+![Homepage](Screenshots/Homepage2.png "Homepage Screenshot")
 
 ### 📊 Results Page
-![Results Page](screenshots/results_page.png "Results Page Screenshot")
+![Results Page](Screenshots/Result.png "Results Page Screenshot")
 
-### 📈 Visualizations
-![Visualizations](screenshots/visualizations.png "Visualizations Screenshot")
+### 📊 Solution Page
+![Results Page](Screenshots/Solution1.png "Results Page Screenshot")
+![Results Page](Screenshots/Solution2.png "Results Page Screenshot")
+
+### 📈 Data
+![Visualizations](Screenshots/Data.png "Visualizations Screenshot")
 
 ---
 
@@ -58,7 +63,7 @@ Welcome to the **Heart Disease Prediction System**, a website designed to predic
 ![Correlation Heatmap](Graphs/correlation_matrix.png "Correlation Heatmap")
 
 ### 📈 Distributions
-![ROC Curve](Graphs/heart_disease_distributions.png)
+![Distributions](Graphs/heart_disease_distributions.png)
 
 ---
 
@@ -97,11 +102,6 @@ Create a new branch: git checkout -b feature-name.
 Commit your changes: git commit -m 'Add feature-name'.  
 Push to the branch: git push origin feature-name.  
 Submit a pull request.  
-
----
-
-### 📄 License
-This project is licensed under the MIT License. See LICENSE for details.
 
 ---
 
